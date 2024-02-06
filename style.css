@@ -19,6 +19,9 @@ body{
 .image{
     height:100vh;
 }
+.image p{
+    font-size:large;
+}
 .myImage{
     border-radius:10%;
     width: 50%;
